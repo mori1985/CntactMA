@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CntactMA/static/css/main.1de5e6c4.css",
-    "main.js": "/CntactMA/static/js/main.44d55f19.js",
+    "main.js": "/CntactMA/static/js/main.6d4bc89f.js",
     "static/media/Spinner.gif": "/CntactMA/static/media/Spinner.5b35cef0ce49e2af8525.gif",
     "static/media/404-error-dribbble.gif": "/CntactMA/static/media/404-error-dribbble.79d4143169438a957233.gif",
     "static/media/man-taking-note.png": "/CntactMA/static/media/man-taking-note.578e1679689f39584d15.png",
     "index.html": "/CntactMA/index.html",
     "main.1de5e6c4.css.map": "/CntactMA/static/css/main.1de5e6c4.css.map",
-    "main.44d55f19.js.map": "/CntactMA/static/js/main.44d55f19.js.map"
+    "main.6d4bc89f.js.map": "/CntactMA/static/js/main.6d4bc89f.js.map"
   },
   "entrypoints": [
     "static/css/main.1de5e6c4.css",
-    "static/js/main.44d55f19.js"
+    "static/js/main.6d4bc89f.js"
   ]
 }
